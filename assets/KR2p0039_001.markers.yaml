@@ -32,7 +32,6 @@ markers:
   - {type: 'tls:seg', offset: 46, content: '', id: KR2p0039_tls_001-2a.4}
   - {type: punctuation, offset: 50, content: '[', id: KR2p0039_tls_001-bkkpn10}
   - {type: punctuation, offset: 50, content: ']', id: KR2p0039_tls_001-bkkpn11}
-  - {type: substitution, offset: 53, original: 閤, replacement: 閣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0791}}
   - {type: punctuation, offset: 55, content: ',', id: KR2p0039_tls_001-bkkpn12}
   - {type: 'tls:seg', offset: 55, content: '', id: KR2p0039_tls_001-2a.5}
   - {type: punctuation, offset: 59, content: ',', id: KR2p0039_tls_001-bkkpn13}
@@ -73,4 +72,4 @@ markers:
   - {type: 'tls:seg', offset: 108, content: '', id: KR2p0039_tls_001-3a.10}
   - {type: xml-element, offset: 115, content: '', id: KR2p0039_tls_001-bkkxmlele6, name: p, role: close, attrs: {source: 'SHANGBO.XIZHEJUNLAO 2.8.3 (STRIP 4) JI XUSHENG 2: 88'}}
   back: []
-hash: sha256:c17302278d790819292a07491e08f588c1e587d46cec6b3a028d08fac39cb6ec
+hash: sha256:cf21ed7210ac1140b486942e77844bb1ab37a99f50a7128bcac56a4369d642f0
